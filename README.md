@@ -6,12 +6,12 @@
 * **Curated Dataset:** Includes a specialized dataset of Alexander-stained wheat pollen microscopy images.
 * **Rigorous Evaluation:** Open-source code for comprehensive performance tracking across IoU, Dice coefficient, precision, recall, F1-score, and inference speed.
 
-## Research Pipeline
+## :hammer_and_wrench: Research Pipeline
 
 Following research pipeline was implemented:
 
 ![alt_text](https://github.com/shahrukh27/Wheat-Pollen-Viability/blob/main/assets/Wheat%20Pollen%20Viability%20Research%20Workflow.png)
 
-## Updates
+## :placard: Updates
 
 The paper is being drafted. The full pipeline (data and code) will be made available once the paper is ready for publication.
