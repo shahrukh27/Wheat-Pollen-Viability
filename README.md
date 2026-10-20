@@ -1,4 +1,7 @@
+<div align="center">
+  
 # Evaluating Deep Learning Segmentation Models for Automated Prediction of Wheat Pollen Viability
+</div>
 
 ## :rocket: Key Features
 * **Multi-Model Benchmark:** Evaluates 9 state-of-the-art computer vision architectures spanning CNNs, Vision Transformers (ViTs), foundation models, and Vision-Language Models (VLMs).
