@@ -5,7 +5,7 @@
 
 ## :rocket: Key Features
 * **Multi-Model Benchmark:** Evaluates 9 state-of-the-art computer vision architectures spanning CNNs, Vision Transformers (ViTs), foundation models, and Vision-Language Models (VLMs).
-* • **Dual-Class Segmentation:** Automatically classifies and segments pollen grains into two critical breeding categories: Viable (red/magenta) and Non-Viable (green/blue).
+* **Dual-Class Segmentation:** Automatically classifies and segments pollen grains into two critical breeding categories: Viable (red/magenta) and Non-Viable (green/blue).
 * **Curated Dataset:** Includes a specialized dataset of Alexander-stained wheat pollen microscopy images.
 * **Rigorous Evaluation:** Open-source code for comprehensive performance tracking across IoU, Dice coefficient, precision, recall, F1-score, and inference speed.
 
